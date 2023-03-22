@@ -1,0 +1,6 @@
+#Transaction page
+#day 2 code
+
+{ 
+printf("hello,welcome to transactions")
+}
